@@ -1,0 +1,7 @@
+#.venv/bin/python -m pip install -r requirements.txt    
+#apache-airflow-providers-postgres 
+apache-airflow
+psycopg2-binary
+pandas
+sqlalchemy
+python-dotenv
