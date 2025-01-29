@@ -1,3 +1,14 @@
+# Guilherme Ferreira 
+[Github](github.com/guiinow) | [LinkedIn](https://www.linkedin.com/in/guiiferreira)
+
+### Para executar o código:
+Condensei todos os scripts de execução em um único arquivo, o makefile.
+Para executá-lo:
+```bash
+make run
+```
+Adicionalmente eu poderia ter feito uma imagem docker da minha aplicação, mas preferi não fazer para não complicar o processo de avaliação.
+
 # Indicium Tech Code Challenge
 
 Code challenge for Software Developer with focus in data projects.
